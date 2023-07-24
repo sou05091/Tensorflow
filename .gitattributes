@@ -1,0 +1,2 @@
+dataset/cats.zip filter=lfs diff=lfs merge=lfs -text
+dataset/dogs.zip filter=lfs diff=lfs merge=lfs -text
